@@ -113,3 +113,13 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Ice Water
+
+Ingredients:
+- 2 cup water
+- 5 ice cubes
+
+Instructions:
+1. Put ice cubes into a cup
+2. Pour water into same cup
